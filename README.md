@@ -1,1 +1,0 @@
-# Stone-Paper-Sizer-Game
